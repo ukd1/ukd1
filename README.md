@@ -17,6 +17,6 @@ You can find me elsewhere:
 - [my blog](https://medium.com/@rhs)
 - [linkedin](https://www.linkedin.com/in/russellhowardsmith/)
 - [angellist](https://angel.co/u/russell)
-- [keybase](https://keybase.io/russ
+- [keybase](https://keybase.io/russ)
 
 Feel free to reach me via keybase, twitter or mastodon.
