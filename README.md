@@ -8,6 +8,7 @@ I currently maintain:
 - [QueueClassic](https://github.com/QueueClassic/queue_classic)
 - [LVMS Events iCal feed](https://github.com/ukd1/lvms-events)
 - [Car Scene Network iCal feed](https://github.com/ukd1/las-vegas-car-scene-network-ical)
+- [The M3 Preservation Society](https://www.m3preservationsociety.com) (Astro, Cloudflare, etc)
 
 Some random projects I run:
 - [Auto Auction Life](https://autoauction.life)
