@@ -16,11 +16,9 @@ Some random projects I run:
 - [hondacrx board](https://board.hondacrx.co.uk)
 
 You can find me elsewhere:
-- [mastodon](https://10000x.dev/@russ)
 - [twitter](https://twitter.com/rhs)
 - [my blog](https://medium.com/@rhs)
 - [linkedin](https://www.linkedin.com/in/russellhowardsmith/)
-- [wellfound](https://wellfound.com/u/russell)
 - [keybase](https://keybase.io/russ)
 
-Feel free to reach me via keybase, twitter or mastodon.
+Feel free to reach me via keybase, or twitter.
