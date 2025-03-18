@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Russ. I enjoy programming in Ruby, Crystal, and sometimes Go and Rust. Also I enjoy ESP32s, photography, and coffee. I'm currently working on cost effective C-UAS. AI detection, tracking and defensive systems @9mothers.
+I'm Russ. I enjoy programming in Ruby, Crystal, and sometimes Go and Rust. Also I enjoy ESP32s, photography, rallying, and coffee. I'm currently working on cost effective C-UAS. AI detection, tracking and defensive systems @9mothers.
 
 Previously: @recursecenter, founded @rainforestapp, YC S12 alumn.
 
